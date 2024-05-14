@@ -1,0 +1,8 @@
+{
+  "question": "How many pieces of chalk are there?",
+  "hint": "Count the pieces of chalk by 5s.",
+  "answer": "10",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

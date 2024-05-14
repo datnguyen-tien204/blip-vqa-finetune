@@ -1,0 +1,8 @@
+{
+  "question": "How many acorns are there?",
+  "hint": "Count the acorns by 10s.",
+  "answer": "50",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F7"
+}

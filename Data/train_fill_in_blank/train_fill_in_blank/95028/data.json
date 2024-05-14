@@ -1,0 +1,8 @@
+{
+  "question": "There are 2 starfish in the top row. How many starfish are in the bottom row?",
+  "hint": "The bottom row has one less.",
+  "answer": "1",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B17"
+}

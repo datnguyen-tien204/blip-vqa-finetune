@@ -1,0 +1,8 @@
+{
+  "question": "How many trucks are there?",
+  "hint": "Count the trucks by 5s.",
+  "answer": "25",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

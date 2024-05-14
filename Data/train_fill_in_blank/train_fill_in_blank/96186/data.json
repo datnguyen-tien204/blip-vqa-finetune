@@ -1,0 +1,8 @@
+{
+  "question": "How many shovels are there?",
+  "hint": "Count the shovels by 10s.",
+  "answer": "40",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

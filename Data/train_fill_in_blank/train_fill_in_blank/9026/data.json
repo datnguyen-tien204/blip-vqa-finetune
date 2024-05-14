@@ -1,0 +1,8 @@
+{
+  "question": "How many gumdrops are there?",
+  "hint": "Count the gumdrops by 10s.",
+  "answer": "30",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

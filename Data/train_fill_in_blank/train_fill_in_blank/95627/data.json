@@ -1,0 +1,8 @@
+{
+  "question": "How many hearts are there?",
+  "hint": "Count the hearts by 2s.",
+  "answer": "4",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F2"
+}

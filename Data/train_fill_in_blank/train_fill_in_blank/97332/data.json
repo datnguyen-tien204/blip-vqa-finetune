@@ -1,0 +1,8 @@
+{
+  "question": "How many skates are there?",
+  "hint": "Count the skates by 2s.",
+  "answer": "4",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F2"
+}

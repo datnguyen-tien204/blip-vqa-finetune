@@ -1,0 +1,8 @@
+{
+  "question": "How many carrots are there?",
+  "hint": "Count the carrots by 5s.",
+  "answer": "10",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

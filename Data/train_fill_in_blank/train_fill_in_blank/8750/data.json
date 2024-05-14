@@ -1,0 +1,8 @@
+{
+  "question": "How many cinnamon rolls are there?",
+  "hint": "Count the cinnamon rolls by 10s.",
+  "answer": "40",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

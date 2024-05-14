@@ -1,0 +1,8 @@
+{
+  "question": "There are 3 rocket ships in the top row. How many rocket ships are in the bottom row?",
+  "hint": "The bottom row has one more.",
+  "answer": "4",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B14"
+}
