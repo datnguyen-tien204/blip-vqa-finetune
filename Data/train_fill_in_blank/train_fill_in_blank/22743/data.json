@@ -1,0 +1,8 @@
+{
+  "question": "How many pumpkins are there?",
+  "hint": "Count the pumpkins by 5s.",
+  "answer": "15",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

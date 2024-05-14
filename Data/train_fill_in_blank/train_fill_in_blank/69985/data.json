@@ -1,0 +1,8 @@
+{
+  "question": "How many ribbons are there?",
+  "hint": "Count the ribbons by 2s.",
+  "answer": "10",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F2"
+}

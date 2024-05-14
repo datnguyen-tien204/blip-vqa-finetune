@@ -1,0 +1,8 @@
+{
+  "question": "How many balloons are there?",
+  "hint": "Count the balloons by 5s.",
+  "answer": "15",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

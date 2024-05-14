@@ -1,0 +1,8 @@
+{
+  "question": "How many sides does this shape have?",
+  "answer": "3",
+  "unit": "sides",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "T3"
+}

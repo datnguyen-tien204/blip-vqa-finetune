@@ -1,0 +1,7 @@
+{
+  "question": "Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.",
+  "answer": "2",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "S2"
+}

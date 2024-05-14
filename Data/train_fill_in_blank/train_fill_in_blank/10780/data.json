@@ -1,0 +1,8 @@
+{
+  "question": "There are 7 ribbons in the top ten frame. How many ribbons are in the bottom ten frame?",
+  "hint": "The bottom ten frame has one more.",
+  "answer": "8",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "C21"
+}

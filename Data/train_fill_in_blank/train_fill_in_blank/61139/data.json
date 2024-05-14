@@ -1,0 +1,8 @@
+{
+  "question": "How many horses are there?",
+  "hint": "Count the horses by 2s.",
+  "answer": "6",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F2"
+}

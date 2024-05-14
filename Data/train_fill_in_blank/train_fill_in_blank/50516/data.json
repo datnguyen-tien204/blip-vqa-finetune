@@ -1,0 +1,8 @@
+{
+  "question": "How many almonds are there?",
+  "hint": "Count the almonds by 10s.",
+  "answer": "50",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

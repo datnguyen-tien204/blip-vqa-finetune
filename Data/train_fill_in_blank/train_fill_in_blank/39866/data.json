@@ -1,0 +1,7 @@
+{
+  "question": "Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.",
+  "answer": "6",
+  "ques_type": "fill_in_blank",
+  "grade": "grade1",
+  "label": "P14"
+}

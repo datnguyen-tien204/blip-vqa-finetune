@@ -1,0 +1,8 @@
+{
+  "question": "The shape is made of unit squares. What is the area of the shape?",
+  "answer": "3",
+  "unit": "square units",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "V4"
+}

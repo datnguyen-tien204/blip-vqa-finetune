@@ -1,0 +1,8 @@
+{
+  "question": "How many planes are there?",
+  "hint": "Count the planes by 10s.",
+  "answer": "30",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "How many cubes tall is the mushroom? The mushroom is (_) cubes tall.",
+  "answer": "2",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "T10"
+}

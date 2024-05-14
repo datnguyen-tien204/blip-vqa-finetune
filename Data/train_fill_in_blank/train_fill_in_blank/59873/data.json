@@ -1,0 +1,7 @@
+{
+  "question": "What time is shown? Answer by typing a time word, not a number. It is (_) to nine.",
+  "answer": "quarter",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "Q6"
+}

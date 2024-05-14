@@ -1,0 +1,8 @@
+{
+  "question": "How many marbles are there?",
+  "hint": "Count the marbles by 10s.",
+  "answer": "20",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

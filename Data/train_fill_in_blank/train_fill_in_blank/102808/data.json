@@ -1,0 +1,8 @@
+{
+  "question": "How many dice are there?",
+  "hint": "Count the dice by 2s.",
+  "answer": "8",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "F2"
+}

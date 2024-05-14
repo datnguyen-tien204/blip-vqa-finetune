@@ -1,0 +1,8 @@
+{
+  "question": "There is 1 ladybug in the top row. How many ladybugs are in the bottom row?",
+  "hint": "The bottom row has one more.",
+  "answer": "2",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B14"
+}

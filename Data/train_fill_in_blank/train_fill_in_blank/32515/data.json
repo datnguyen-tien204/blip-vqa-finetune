@@ -1,0 +1,8 @@
+{
+  "question": "There are 4 snails in the top row. How many snails are in the bottom row?",
+  "hint": "The bottom row has one more.",
+  "answer": "5",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B14"
+}

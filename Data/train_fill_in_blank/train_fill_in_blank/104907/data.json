@@ -1,0 +1,8 @@
+{
+  "question": "How many fish are there?",
+  "hint": "Count the fish by 10s.",
+  "answer": "40",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

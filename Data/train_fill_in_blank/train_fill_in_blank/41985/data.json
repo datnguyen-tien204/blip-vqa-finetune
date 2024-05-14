@@ -1,0 +1,8 @@
+{
+  "question": "How many vertices does this shape have?",
+  "answer": "4",
+  "unit": "vertices",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "T3"
+}

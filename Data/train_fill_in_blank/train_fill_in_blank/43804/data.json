@@ -1,0 +1,8 @@
+{
+  "question": "How many eggs are there?",
+  "hint": "Count the eggs by 5s.",
+  "answer": "20",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

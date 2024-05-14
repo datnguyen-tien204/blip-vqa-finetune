@@ -1,0 +1,8 @@
+{
+  "question": "How many caterpillars are there?",
+  "hint": "Count the caterpillars by 10s.",
+  "answer": "40",
+  "ques_type": "fill_in_blank",
+  "grade": "grade2",
+  "label": "A4"
+}

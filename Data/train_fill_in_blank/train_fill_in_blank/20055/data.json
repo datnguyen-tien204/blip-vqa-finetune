@@ -1,0 +1,8 @@
+{
+  "question": "There are 2 pumpkins in the top row. How many pumpkins are in the bottom row?",
+  "hint": "The bottom row has one more.",
+  "answer": "3",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B14"
+}

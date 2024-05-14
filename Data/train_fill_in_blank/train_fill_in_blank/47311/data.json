@@ -1,0 +1,8 @@
+{
+  "question": "There are 2 rainbows in the top row. How many rainbows are in the bottom row?",
+  "hint": "The bottom row has one less.",
+  "answer": "1",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "B17"
+}

@@ -1,0 +1,8 @@
+{
+  "question": "There are 8 balls in the top ten frame. How many balls are in the bottom ten frame?",
+  "hint": "The bottom ten frame has one less.",
+  "answer": "7",
+  "ques_type": "fill_in_blank",
+  "grade": "kindergarten",
+  "label": "C21"
+}
